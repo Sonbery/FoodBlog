@@ -1,1 +1,0 @@
-print("óla seu bosta")
